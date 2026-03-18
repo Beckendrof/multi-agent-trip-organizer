@@ -47,3 +47,7 @@ This project deploys a supervised multi-agent AI system. It autonomously ingests
 5. Upload the sample `joshua_tree_chat_log.txt` and `campground_rules.pdf` provided in the `/tests` folder. Watch the Supervisor Agent catch the midnight campfire violation in real-time!
 
 ***
+
+### 🌐 Live Demo
+
+[Try the Multi-Agent Trip Concierge (Demo)](https://multi-agent-trip-organizer.vercel.app/)
